@@ -7,10 +7,10 @@ author: SixSeven
 
 # 华为云账号配置
 class FunctionGraphConfig:
-    ak = "***"
-    sk = "***"
-    region = "***"
-    function_urn = "***"
+    ak = "SVVWB5OMM97EIMHLJBHP"
+    sk = "YhZEAsLclSU18x9tD9hHLRojMVCF1EjBjoJQyF27"
+    region = "ap-southeast-3"
+    function_urn = "urn:fss:ap-southeast-3:4cb630c24bfd44ab927355bf49f444da:function:default:ChatGPT:latest"
 
 
 # flask配置
