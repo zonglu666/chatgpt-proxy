@@ -1,7 +1,7 @@
 # encoding: utf-8
 """
 desc: 简易路由转换器
-author: SixSeven
+author: SungLou
 """
 
 from flask import Flask, request
