@@ -130,3 +130,9 @@ dmypy.json
 
 # idea
 .idea
+
+.env
+logs
+node_modules
+.lock
+package-lock.json
