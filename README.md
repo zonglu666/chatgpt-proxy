@@ -18,7 +18,7 @@ https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=320796e6-8c1f-4fc6-9299-9ef
 
 
 
-
+OPENAI_API_KEY=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
 
 
 
